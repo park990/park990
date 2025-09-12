@@ -1,17 +1,14 @@
 # Jaeyoon Park
 
 <a href="mailto:rhkgkrwk2008@gmail.com">
-  <img src="https://img.shields.io/badge/-rhkgkrwk2008@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&cache_bust=1" alt="Email"/>
+  <img src="https://img.shields.io/badge/rhkgkrwk2008@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-
 <br><br>
 
 👩‍💻 Student Developer at SsangYong Education Center
 <br>
 <br>
 since 30 Apr. 2025 ~ 🌊
-
-<div style="width: 100%; height: 1px; background-color: #E1E4E8;"></div>
 
 <br> 
 
