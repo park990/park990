@@ -12,7 +12,7 @@ since 30 Apr. 2025 ~ 🌊
 
 <br> 
 
-### 💫 Level & Stats
+## 💫 Level & Stats
 <div align="left">
   <a href="https://solved.ac/rhkgkrwk2008">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rhkgkrwk2008" alt="Solved.ac Badge"/>
