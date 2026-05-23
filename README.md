@@ -13,10 +13,6 @@ since 30 Apr. 2025 ~ 🌊
 <br> 
 
 ### 💫 Level & Stats
-<div align="left">
-  <a href="https://solved.ac/rhkgkrwk2008">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rhkgkrwk2008" alt="Solved.ac Badge"/>
-  </a>
   &nbsp;&nbsp;&nbsp;&nbsp; 
   <a href="https://github.com/park990">
     <img src="https://github-readme-stats.vercel.app/api?username=park990&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats"/>
