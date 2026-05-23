@@ -25,7 +25,7 @@
 ## 🧭 Currently
 
 ```yaml
-🔬 StructVerify-Lab : 범용 수치 팩트체크 플랫폼 백엔드 + LLM 파이프라인 (Clabi)
+🔬 StructVerify-Lab : 범용 수치 팩트체크 플랫폼 백엔드 + LLM 파이프라인 (멋쟁이사자)
 📱 Booming         : Flutter + Spring Boot 모바일 AI 대화 코칭 커뮤니티
 🤗 HuggingFace     : park990/hihi_model — DocRED ATLOP+DREEAM 공개
 ```
