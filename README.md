@@ -179,11 +179,11 @@
 
 <div align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=park990&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=park990&hide_border=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=park990&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="170"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=park990&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=park990&hide_border=true&theme=tokyonight" height="170"/>
 </div>
 
 <br>
