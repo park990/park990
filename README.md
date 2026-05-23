@@ -131,7 +131,7 @@
 - 평가 코드의 **Adaptive Threshold 무시 버그** 발견 및 수정 → **F1 56.64% → 60.71% (+4.07pt)**
 - ATLOP Loss 구현 오류 수정 (BCE+concat → 논문 원본 Ranking Loss)
 - dev 998개 문서 추론 → 10,494개 triple 생성, NetworkX 기반 KG 시각화
-- 관계별 정성 분석 — 명시적 관계 80~90% vs 상식 추론 관계 0~12.5%
+- 관계별 정성 분석 — 명시적 관계 80\~90% vs 상식 추론 관계 0\~12.5%
 
 `PyTorch` &nbsp;·&nbsp; `BERT-base` &nbsp;·&nbsp; `ATLOP` &nbsp;·&nbsp; `DREEAM` &nbsp;·&nbsp; `NetworkX`
 
